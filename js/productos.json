@@ -1,0 +1,166 @@
+[
+    {
+        "id": "sudadera-01",
+        "titulo": "Sudarera Adidas Gris",
+        "imagen": "./img/sudaderas/01.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudaderas"
+        },
+        "precio": 450
+    },
+    {
+        "id": "sudadera-02",
+        "titulo": "Sudadera Adidas Negra",
+        "imagen": "./img/sudaderas/02.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudaderas"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "sudadera-03",
+        "titulo": "Sudadera Adidas con estampado",
+        "imagen": "./img/sudaderas/03.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudaderas"
+        },
+        "precio": 530
+    },
+    {
+        "id": "sudaera-04",
+        "titulo": "Sudadera Adidas Negra",
+        "imagen": "./img/sudaderas/04.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudaderas"
+        },
+        "precio": 900
+    },
+    {
+        "id": "sudadera-05",
+        "titulo": "Sudadera Adidas Azul",
+        "imagen": "./img/sudaderas/05.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudaderas"
+        },
+        "precio": 890
+    },
+    {
+        "id": "sudadera-06",
+        "titulo": "Sudadera Puma Negra",
+        "imagen": "./img/sudaderas/06.jpg",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 430
+    },
+    {
+        "id": "sudadera-07",
+        "titulo": "Sudadera Puma Tricolor",
+        "imagen": "./img/sudaderas/07.png",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "sudaderas-08",
+        "titulo": "Sudadera Puma Gris",
+        "imagen": "./img/sudaderas/08.jpg",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 1340
+    },
+    {
+        "id": "sudaderas-09",
+        "titulo": "Sudadera Puma Tricolor",
+        "imagen": "./img/sudaderas/09.jpg",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 1360
+    },
+    {
+        "id": "sudaderas-10",
+        "titulo": "Sudadera Puma Gris con naranja",
+        "imagen": "./img/sudaderas/10.jpg",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 1440
+    },
+    {
+        "id": "tenis-11",
+        "titulo": "Tenis Adidas Blanco ",
+        "imagen": "./img/tenis/11.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "tenis-12",
+        "titulo": "Tenis Adidas Blanco con Negro ",
+        "imagen": "./img/tenis/12.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": 1600
+    },
+
+    {
+        "id": "tenis-13",
+        "titulo": "Tenis Puma Blanco con Dorado ",
+        "imagen": "./img/tenis/13.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": 1450
+    },
+    {
+        "id": "tenis-14",
+        "titulo": "Tenis Puma Azul con Dorado ",
+        "imagen": "./img/tenis/14.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": 1320
+    },
+
+{
+    "id": "tenis-15",
+    "titulo": "Tenis Adidas Blanco con Azul ",
+    "imagen": "./img/tenis/15.jpg",
+    "categoria": {
+        "nombre": "Tenis",
+        "id": "tenis"
+    },
+    "precio": 1300
+},
+{
+    "id": "tenis-16",
+    "titulo": "Tenis Puma Rojo con Blanco ",
+    "imagen": "./img/tenis/16.jpg",
+    "categoria": {
+        "nombre": "Tenis",
+        "id": "tenis"
+    },
+    "precio": 1600
+}
+  
+    
+]
